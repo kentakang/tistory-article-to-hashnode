@@ -210,3 +210,6 @@ pyrightconfig.json
 
 # Environment file
 .env
+
+# Tistory backup files
+tistory_backup
